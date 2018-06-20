@@ -1,0 +1,31 @@
+form{
+    border: 3px solid #453112;
+    width: 350px;
+    background-color: #ccc;
+}
+
+input[type=text]{
+    width: 95%;
+    padding: 5px 5px;
+    margin: 8px 10px;
+    display: inline-block;
+    border: 5px solid #876455;
+    box-sizing: border-box;
+}
+
+ul{
+  list-style-type: none;
+  padding: 5px 5px;
+  margin: 8px 10px;
+}
+
+li{
+  width: 100%;
+  height: 50px;
+  padding: 0px 5px;
+  margin: 3px 5px;
+  display: inline-block;
+  border: 3px solid #111111;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
