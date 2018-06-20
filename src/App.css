@@ -29,3 +29,7 @@ li{
   box-sizing: border-box;
   background-color: #ffffff;
 }
+
+li:hover {
+    opacity: 0.8;
+}
